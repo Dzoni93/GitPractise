@@ -2,3 +2,7 @@ random text
 more random text
 and more random
 random text
+<<<<<<< HEAD
+=======
+
+>>>>>>> a1033b91c383e614737039f446531b165bcfbe80
