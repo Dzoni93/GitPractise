@@ -2,18 +2,11 @@ random text
 more random text
 and more random
 random text
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> a1033b91c383e614737039f446531b165bcfbe80
-=======
->>>>>>> a1033b91c383e614737039f446531b165bcfbe80
 dawdwawdwadwad
 dawdawdadawdad
 dwadawdwadada
+
 dwadadadadawdad
 wdadadadadadad
-=======
->>>>>>> 5d9bc31ef83ba4e3be5aa68b9b021a6684982593
+
